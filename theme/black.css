@@ -1,0 +1,42 @@
+.card-main {
+  margin: 5% auto 0;
+  width: 450px;
+  background: url("black.jpg");
+  background-size: cover;
+  box-shadow: 0px 6px 18px 0px rgba(0, 0, 0, 0.46);
+  font-family: "Microsoft JhengHei", "Apple LiGothic Medium", Arial, serif;
+  text-align: center;
+  overflow: hidden;
+  color: #999;
+  padding: 3% 5%;
+}
+
+.hr {
+  background: linear-gradient(90deg, #80808000, gray, #80808000);
+  height: 1px;
+  width: 80%;
+  border: 0;
+}
+
+.who {
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  margin-top: 20px;
+  border: 6px solid #eee;
+}
+
+.clr {
+  color: #333;
+  background-color: #d4c8b5;
+}
+
+.box {
+  border-radius: 5px;
+  background: url("white.jpg");
+  padding: 10px;
+  margin: 10px;
+  color: black;
+  font-weight: bold;
+  letter-spacing: 3px;
+}
